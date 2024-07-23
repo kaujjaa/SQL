@@ -1,4 +1,5 @@
--- Here you'll see the SQL coding I practiced with my Customer & Order Project. This database shared statistics and data about customers and their order details. 
+-- Here you'll see the SQL coding I practiced with my Customer & Order Project. 
+This database shared statistics and data about customers and their order details. 
 
 -- How many orders were placed in January?
 SELECT COUNT (orderid)
